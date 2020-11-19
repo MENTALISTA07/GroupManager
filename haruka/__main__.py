@@ -21,21 +21,12 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
-
-You know how hard it is sometimes to manage group so here is the solution for you
-
-I'm group manager bot and Anti-spam for RR Players🃏
-
+I'm group manager bot and Anti-spam for RR Players
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
-
-Made from the source code of [Charlie puth](t.me/peru_monster)
-
-Special thanks to [this person](t.me/darkangelxd) for helping me.
-
+Made by [Charlie puth](t.me/peru_monster)
 Click /help or Help button below to find out more about how to use me to my full potential.
-
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/Peru_Manager_bot?startgroup=true).
 """
 
 
